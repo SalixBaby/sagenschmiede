@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Sagenschmiede
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Willkommen in der Sagenschmiede. Ein einfach zu verstehendes Tabletop-Rollenspiel von SalixBaby.
+
+Unser Motto: Kreativität über alles!
+
+Grundregeln findet du [[./Grundregeln|Hier]]
+
+Der Charakterbogen befindet sich noch in der Schmiede zu Fertigstellen.
