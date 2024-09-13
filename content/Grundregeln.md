@@ -8,7 +8,8 @@ share: "true"
   
 ### 2. **Charaktererschaffung**  
   
-- **Attribute**: Charaktere haben Attribute wie [[Körper|Körper]], [[Geist|Geist]] und [[Seele|Seele]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
+- **Attribute**: Charaktere haben Attribute wie [[./Körper|Körper]], [[./Geist|Geist]] und [[./Seele|Seele]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
+- **Passive Werte**: Durch [[./Klassen|Klassen]], und Modifikatoren erhalten Charaktere verschiedene [[./Passive|Passive]] Werte.   
 - **Fähigkeiten und Fertigkeiten**: Jeder Charakter hat spezielle Fähigkeiten, die seine Stärken betonen (z. B. Kampf, Magie, Heilen).  
 - **Ausrüstung**: Charaktere beginnen oft mit einer Grundausstattung, die von ihrer Klasse oder ihrem Hintergrund abhängt.  
   
@@ -21,12 +22,12 @@ share: "true"
   
 - **Initiative**: Zu Beginn eines Kampfes wird oft gewürfelt, um die Reihenfolge der Aktionen festzulegen.  
 - **Kampfrunden**: In einer Runde kann jeder Charakter in einer bestimmten Reihenfolge angreifen, zaubern oder eine andere Aktion ausführen.  
-- **Trefferpunkte (TP)**: Charaktere haben TP, die angeben, wie viel Schaden sie einstecken können, bevor sie bewusstlos werden oder sterben.  
   
-### 5. **Magie und Spezialfähigkeiten**  
+[[./Aktionen & Reaktionen|Aktionen & Reaktionen]]  
   
-- **Zaubersprüche**: Wenn Charaktere Magie einsetzen können, gibt es Regeln, wie oft sie das tun können, welche Zauber sie kennen und wie sie wirken.  
-- **Fähigkeiten nutzen**: Manche Charaktere haben Spezialfähigkeiten, die ihnen im Kampf oder bei der Problemlösung Vorteile bieten.  
+### 5. **Magie und Zaubersprüche**  
+  
+[[./Magie und Manapunkte|Magie und Manapunkte]]  
   
 ### 6. **Ressourcenmanagement**  
   
