@@ -19,8 +19,8 @@ ____
 - [[./Willensstärke|Willensstärke]]: 10 + [[./Fokus|Fokus]]  
 ---  
   
-- Wissens-Punkte: [[Geist|Geist]]  
-- Inspirations-Punkte: [[Seele|Seele]]  
+- Wissens-Punkte: [[./Geist|Geist]]  
+- Inspirations-Punkte: [[./Seele|Seele]]  
 - Magie-Lehre: 3 + Level  
 ___  
   
@@ -29,4 +29,4 @@ Magienutzer:
 ---  
   
 Kampfklassen:  
-- Ausdauer-Punkte: [[Körper|Körper]]
+- Ausdauer-Punkte: [[./Körper|Körper]]
