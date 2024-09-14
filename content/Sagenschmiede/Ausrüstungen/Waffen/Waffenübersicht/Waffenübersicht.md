@@ -1,0 +1,15 @@
+---
+share: "true"
+---
+- [[./Armbrust|Armbrust]]  
+- [[./Beil|Beil]]  
+- [[./Bogen|Bogen]]  
+- [[./Degen|Degen]]  
+- [[./Dolch|Dolch]]  
+- [[./Kriegsaxt|Kriegsaxt]]  
+- [[./Kriegshammer|Kriegshammer]]  
+- [[./Kurzschwert|Kurzschwert]]  
+- [[./Langschwert|Langschwert]]  
+- [[./Schild|Schild]]  
+- [[./Speer|Speer]]  
+- [[./Stab|Stab]]
