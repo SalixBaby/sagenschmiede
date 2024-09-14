@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark Mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Archiv",
     },
     footer: {
       createdWith: "Erstellt mit",
@@ -68,7 +68,7 @@ export default {
       home: "Return to Homepage",
     },
     folderContent: {
-      folder: "Ordner",
+      folder: "",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 Datei in diesem Ordner." : `${count} Dateien in diesem Ordner.`,
     },
