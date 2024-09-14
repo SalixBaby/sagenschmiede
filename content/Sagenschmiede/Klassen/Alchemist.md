@@ -5,7 +5,7 @@ Hintergrund: [[../Hintergründe/Natur|Natur]]
 Ausbildungs-Punkte: 3  
   
 Variationen:  
-- Laborratte (Nachteil auf [[../Attribute/Seele/Auftritt|Auftritt]] | Vorteil auf [[../Attribute/Körper/Konstitution|Konstitution]] + 1 [[../Attribute/Körper/Konstitution|Konstitution]])  
+- Laborratte (Nachteil auf [[../Kernattribute/Seele/Auftritt|Auftritt]] | Vorteil auf [[../Kernattribute/Körper/Konstitution|Konstitution]] + 1 [[../Kernattribute/Körper/Konstitution|Konstitution]])  
 - Gaukler (Vorteil auf Auftritt | Wissen in Kunst/Kultur)  
   
 1. Level:  
