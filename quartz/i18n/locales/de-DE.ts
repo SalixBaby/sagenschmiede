@@ -68,9 +68,9 @@ export default {
       home: "Zurück zur Hauptseite",
     },
     folderContent: {
-      folder: "",
+      folder: "Übersicht",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 Datei in diesem Ordner." : `${count} Dateien in diesem Ordner.`,
+        count === 1 ? "1 Eintrag in dieser Kategorie." : `${count} Einträge in dieser Kategorie. Der oberste Eintrag beinhaltet eine Erklärung.`,
     },
     tagContent: {
       tag: "Tag",
