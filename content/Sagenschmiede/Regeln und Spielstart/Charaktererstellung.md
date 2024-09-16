@@ -116,7 +116,7 @@ Wähle die passende Ausrüstung für deinen Charakter. Hierbei stehen dir versch
   
 **Waffen**: Waffen besitzen verschiedene **Eigenschaften** (Leise, Reichweite, Schwer, etc.) und **Fähigkeiten** (Aufschlitzen, Betäuben, Durchbohren, etc.), die im Kampf zum Tragen kommen.  
   
-**Sets oder Werkzeuge**: Sets sind spezialisierte Sets ein unverzichtbares Werkzeug für Helden, die ihre einzigartigen Fähigkeiten vertiefen und erweitern möchten. (z.B. Diebes Set, Navigator Set etc.)  
+**Sets oder Werkzeuge**: Sets sind spezialisierte Zusammensetzung verschiedener Werkzeuge und eine unverzichtbare Hilfe für Helden, die ihre einzigartigen Fähigkeiten vertiefen und erweitern möchten. (z.B. Diebes Set, Navigator Set etc.)  
   
 ---  
   
